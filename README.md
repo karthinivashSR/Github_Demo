@@ -36,5 +36,3 @@ git commit -m "message" # Commit changes
 git pull # Pull changes from remote
 git push # Push changes to remote
 ```
-
-```
