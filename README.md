@@ -35,10 +35,6 @@ git add . # Stage all changes
 git commit -m "message" # Commit changes
 git pull # Pull changes from remote
 git push # Push changes to remote
-<<<<<<< HEAD
-```
-=======
-```
 
 ### Advanced Operations
 ```bash
@@ -65,4 +61,4 @@ git revert commit-id # Revert specific commit
 git reset --soft HEAD~1 # Undo last commit
 git clean -fd # Remove untracked files
 ``` GitHub CLI Demo
->>>>>>> 7eb7e95 (Update: updates readme with more git commands)
+
